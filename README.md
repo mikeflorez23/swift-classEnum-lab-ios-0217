@@ -17,7 +17,7 @@ Get started by opening up `ClassesNenums.xcworkspace` in Xcode. Go ahead and run
 Let's go!
 
 **1**. First, open up `Bird.swift` in Xcode's code editor. You'll be making a lot of changes in this file.  
-**2**. To complete this lab, you'll need to implement three enums. The first one should be called `Speed`. This enum is used for comparison and has _raw values_, so it should inherit from `Int`. It should have three cases: `slow`, `medium`, and `fast`. Create this enum now, in `Bird.swift`.  
+**2**. To complete this lab, you'll need to implement three enums. The first one should be called `Speed`. This enum is used for comparison and has _raw values_, so the raw value type of this enum should be `Int`. It should have three cases: `slow`, `medium`, and `fast`. Create this enum now, in `Bird.swift`.  
 **3**. Implement a method for your `Speed` enum called `isFaster(thanSpeed:)`. This enum should take a `Speed` parameter and return `true` if the enum value that `isFaster(thanSpeed:)` is called on is faster than the parameter. For example:
 
 ```swift
