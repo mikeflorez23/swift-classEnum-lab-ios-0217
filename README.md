@@ -12,7 +12,7 @@ In this lab, you'll implement a few simple classes using enums.
 
 This lab is all about classes and enums! In this lab, you'll implement a few simple classes and enums. As usual, a set of tests have been written for you. If you follow the directions in this lab correctly, the tests will pass.
 
-Get started by opening up `ClassesNenums.xcworkspace` in Xcode. Go ahead and run the tests by **Test** from the **Product** menu, or pressing <kbd>Command</kbd>+<kbd>U</kbd>. Right now, you'll see that the tests fail, but if you finish this lab, the tests should pass.
+Get started by opening up `ClassesNenums.xcodeproj` in Xcode. Go ahead and run the tests by **Test** from the **Product** menu, or pressing <kbd>Command</kbd>+<kbd>U</kbd>. Right now, you'll see that the tests fail, but if you finish this lab, the tests should pass.
 
 Let's go!
 
