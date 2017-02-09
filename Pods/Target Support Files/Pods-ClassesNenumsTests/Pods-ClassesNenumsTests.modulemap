@@ -1,6 +1,0 @@
-framework module Pods_ClassesNenumsTests {
-  umbrella header "Pods-ClassesNenumsTests-umbrella.h"
-
-  export *
-  module * { export * }
-}

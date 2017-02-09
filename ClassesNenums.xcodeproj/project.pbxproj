@@ -7,8 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		47A5DDCB46BE086E35D76067 /* Pods_ClassesNenumsTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E2620AADC1989A40A61B2AD9 /* Pods_ClassesNenumsTests.framework */; };
-		53CF3223566E63D01D009DA9 /* Pods_ClassesNenums.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5E78AF8DBA07D14780AB4A0F /* Pods_ClassesNenums.framework */; };
 		5B526D801E4CCA3800265100 /* TrexTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B526D7F1E4CCA3800265100 /* TrexTest.swift */; };
 		5B526D821E4CEC6B00265100 /* SpeedEnumTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5B526D811E4CEC6B00265100 /* SpeedEnumTest.swift */; };
 		5BB0BD111D4BD27B0054120F /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0BD101D4BD27B0054120F /* AppDelegate.swift */; };
@@ -17,8 +15,6 @@
 		5BB0BD181D4BD27B0054120F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5BB0BD171D4BD27B0054120F /* Assets.xcassets */; };
 		5BB0BD1B1D4BD27B0054120F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 5BB0BD191D4BD27B0054120F /* LaunchScreen.storyboard */; };
 		5BB0BD321D4BD5B10054120F /* Bird.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0BD311D4BD5B10054120F /* Bird.swift */; };
-		5BB0BD361D4BE4510054120F /* TrexTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0BD351D4BE4510054120F /* TrexTests.swift */; };
-		5BB0BD381D4BFA5F0054120F /* SpeedTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BB0BD371D4BFA5F0054120F /* SpeedTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -32,10 +28,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		1A0326CBC5595B224F8C038E /* Pods-ClassesNenumsTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassesNenumsTests.release.xcconfig"; path = "Pods/Target Support Files/Pods-ClassesNenumsTests/Pods-ClassesNenumsTests.release.xcconfig"; sourceTree = "<group>"; };
-		1B0BDC12F4909DB2202A7AD0 /* Pods-ClassesNenums.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassesNenums.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ClassesNenums/Pods-ClassesNenums.debug.xcconfig"; sourceTree = "<group>"; };
-		1B0C931C0D8A4A7AA4D7632C /* Pods-ClassesNenums.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassesNenums.release.xcconfig"; path = "Pods/Target Support Files/Pods-ClassesNenums/Pods-ClassesNenums.release.xcconfig"; sourceTree = "<group>"; };
-		4444DD7C46A691742705C036 /* Pods-ClassesNenumsTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ClassesNenumsTests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-ClassesNenumsTests/Pods-ClassesNenumsTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5B526D7F1E4CCA3800265100 /* TrexTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrexTest.swift; sourceTree = "<group>"; };
 		5B526D811E4CEC6B00265100 /* SpeedEnumTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeedEnumTest.swift; sourceTree = "<group>"; };
 		5BB0BD0D1D4BD27B0054120F /* ClassesNenums.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ClassesNenums.app; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -48,10 +40,6 @@
 		5BB0BD211D4BD27B0054120F /* ClassesNenumsTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ClassesNenumsTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		5BB0BD271D4BD27B0054120F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		5BB0BD311D4BD5B10054120F /* Bird.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Bird.swift; sourceTree = "<group>"; };
-		5BB0BD351D4BE4510054120F /* TrexTests.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TrexTests.swift; sourceTree = "<group>"; };
-		5BB0BD371D4BFA5F0054120F /* SpeedTest.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SpeedTest.swift; sourceTree = "<group>"; };
-		5E78AF8DBA07D14780AB4A0F /* Pods_ClassesNenums.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClassesNenums.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		E2620AADC1989A40A61B2AD9 /* Pods_ClassesNenumsTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ClassesNenumsTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,7 +47,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				53CF3223566E63D01D009DA9 /* Pods_ClassesNenums.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -67,7 +54,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				47A5DDCB46BE086E35D76067 /* Pods_ClassesNenumsTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -80,8 +66,6 @@
 				5BB0BD0F1D4BD27B0054120F /* ClassesNenums */,
 				5BB0BD241D4BD27B0054120F /* ClassesNenumsTests */,
 				5BB0BD0E1D4BD27B0054120F /* Products */,
-				A60CE3AE02995F9263E65EAB /* Pods */,
-				EBAA8C6AD5B98A5F388B66FA /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -106,8 +90,8 @@
 		5BB0BD241D4BD27B0054120F /* ClassesNenumsTests */ = {
 			isa = PBXGroup;
 			children = (
-				5BB0BD351D4BE4510054120F /* TrexTests.swift */,
-				5BB0BD371D4BFA5F0054120F /* SpeedTest.swift */,
+				5B526D7F1E4CCA3800265100 /* TrexTest.swift */,
+				5B526D811E4CEC6B00265100 /* SpeedEnumTest.swift */,
 				5BB0BD301D4BD55F0054120F /* Test Supporting Files */,
 			);
 			path = ClassesNenumsTests;
@@ -116,8 +100,6 @@
 		5BB0BD301D4BD55F0054120F /* Test Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				5B526D7F1E4CCA3800265100 /* TrexTest.swift */,
-				5B526D811E4CEC6B00265100 /* SpeedEnumTest.swift */,
 				5BB0BD271D4BD27B0054120F /* Info.plist */,
 			);
 			name = "Test Supporting Files";
@@ -136,26 +118,6 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		A60CE3AE02995F9263E65EAB /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				1B0BDC12F4909DB2202A7AD0 /* Pods-ClassesNenums.debug.xcconfig */,
-				1B0C931C0D8A4A7AA4D7632C /* Pods-ClassesNenums.release.xcconfig */,
-				4444DD7C46A691742705C036 /* Pods-ClassesNenumsTests.debug.xcconfig */,
-				1A0326CBC5595B224F8C038E /* Pods-ClassesNenumsTests.release.xcconfig */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
-		EBAA8C6AD5B98A5F388B66FA /* Frameworks */ = {
-			isa = PBXGroup;
-			children = (
-				5E78AF8DBA07D14780AB4A0F /* Pods_ClassesNenums.framework */,
-				E2620AADC1989A40A61B2AD9 /* Pods_ClassesNenumsTests.framework */,
-			);
-			name = Frameworks;
-			sourceTree = "<group>";
-		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -163,15 +125,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5BB0BD2A1D4BD27B0054120F /* Build configuration list for PBXNativeTarget "ClassesNenums" */;
 			buildPhases = (
-				D4A58211059F715BE26754BE /* 📦 Check Pods Manifest.lock */,
-				2EBEA201A4316307D611776F /* [CP] Check Pods Manifest.lock */,
 				5BB0BD091D4BD27B0054120F /* Sources */,
 				5BB0BD0A1D4BD27B0054120F /* Frameworks */,
 				5BB0BD0B1D4BD27B0054120F /* Resources */,
-				671531E1080AEEA6E4E0D96E /* [CP] Embed Pods Frameworks */,
-				8EC5D912CB7C3CD5279AC316 /* [CP] Copy Pods Resources */,
-				DB25023045490567624057F0 /* 📦 Embed Pods Frameworks */,
-				A44646683EE93557CCF96332 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -186,15 +142,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5BB0BD2D1D4BD27B0054120F /* Build configuration list for PBXNativeTarget "ClassesNenumsTests" */;
 			buildPhases = (
-				FF2BB2CE186281AFC34407E8 /* 📦 Check Pods Manifest.lock */,
-				86CC860A0FA14CEBE1CBDCE1 /* [CP] Check Pods Manifest.lock */,
 				5BB0BD1D1D4BD27B0054120F /* Sources */,
 				5BB0BD1E1D4BD27B0054120F /* Frameworks */,
 				5BB0BD1F1D4BD27B0054120F /* Resources */,
-				70939AD62FE467CF4B5D313E /* [CP] Embed Pods Frameworks */,
-				75286869182FD048A0AC0DBB /* [CP] Copy Pods Resources */,
-				70E6FA254FE7DA8997D48B4C /* 📦 Embed Pods Frameworks */,
-				7F5BB9BA50C111E51B65ABF2 /* 📦 Copy Pods Resources */,
 			);
 			buildRules = (
 			);
@@ -266,189 +216,6 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
-/* Begin PBXShellScriptBuildPhase section */
-		2EBEA201A4316307D611776F /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		671531E1080AEEA6E4E0D96E /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassesNenums/Pods-ClassesNenums-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		70939AD62FE467CF4B5D313E /* [CP] Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassesNenumsTests/Pods-ClassesNenumsTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		70E6FA254FE7DA8997D48B4C /* 📦 Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "📦 Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassesNenumsTests/Pods-ClassesNenumsTests-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		75286869182FD048A0AC0DBB /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassesNenumsTests/Pods-ClassesNenumsTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		7F5BB9BA50C111E51B65ABF2 /* 📦 Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "📦 Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassesNenumsTests/Pods-ClassesNenumsTests-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		86CC860A0FA14CEBE1CBDCE1 /* [CP] Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		8EC5D912CB7C3CD5279AC316 /* [CP] Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "[CP] Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassesNenums/Pods-ClassesNenums-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		A44646683EE93557CCF96332 /* 📦 Copy Pods Resources */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "📦 Copy Pods Resources";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassesNenums/Pods-ClassesNenums-resources.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		D4A58211059F715BE26754BE /* 📦 Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "📦 Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-		DB25023045490567624057F0 /* 📦 Embed Pods Frameworks */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "📦 Embed Pods Frameworks";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-ClassesNenums/Pods-ClassesNenums-frameworks.sh\"\n";
-			showEnvVarsInLog = 0;
-		};
-		FF2BB2CE186281AFC34407E8 /* 📦 Check Pods Manifest.lock */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "📦 Check Pods Manifest.lock";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [[ $? != 0 ]] ; then\n    cat << EOM\nerror: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\nEOM\n    exit 1\nfi\n";
-			showEnvVarsInLog = 0;
-		};
-/* End PBXShellScriptBuildPhase section */
-
 /* Begin PBXSourcesBuildPhase section */
 		5BB0BD091D4BD27B0054120F /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
@@ -465,8 +232,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B526D801E4CCA3800265100 /* TrexTest.swift in Sources */,
-				5BB0BD361D4BE4510054120F /* TrexTests.swift in Sources */,
-				5BB0BD381D4BFA5F0054120F /* SpeedTest.swift in Sources */,
 				5B526D821E4CEC6B00265100 /* SpeedEnumTest.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -586,7 +351,6 @@
 		};
 		5BB0BD2B1D4BD27B0054120F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1B0BDC12F4909DB2202A7AD0 /* Pods-ClassesNenums.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ClassesNenums/Info.plist;
@@ -599,7 +363,6 @@
 		};
 		5BB0BD2C1D4BD27B0054120F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1B0C931C0D8A4A7AA4D7632C /* Pods-ClassesNenums.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = ClassesNenums/Info.plist;
@@ -612,7 +375,6 @@
 		};
 		5BB0BD2E1D4BD27B0054120F /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 4444DD7C46A691742705C036 /* Pods-ClassesNenumsTests.debug.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = ClassesNenumsTests/Info.plist;
@@ -626,7 +388,6 @@
 		};
 		5BB0BD2F1D4BD27B0054120F /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 1A0326CBC5595B224F8C038E /* Pods-ClassesNenumsTests.release.xcconfig */;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
 				INFOPLIST_FILE = ClassesNenumsTests/Info.plist;
