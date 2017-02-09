@@ -18,7 +18,7 @@ class SpeedSpec: QuickSpec {
             var speed = Speed.fast
             
             describe("isFaster(thanSpeed:") {
-                it("Should take in an argument of type Speed and compare the rawValue of self against the rawValue of the argument passed in. If it's greater, it should return true.") {
+                it("Should take in an argument of type Speed and compare the rawValue of self against the rawValue of the argument passed in. If it's greater, it should retursn true.") {
                     
                     var otherSpeed = Speed.slow
                     
